@@ -1,0 +1,9 @@
+﻿How to set up this program
+
+Create a new repository on GitHub
+Create a new Console app in Visual studio
+Add, Commit Push from your Powershell or command line 
+In your Windows powershell or terminal, push your local repo to the remote repo on GitHub using the initializing commands from github
+Start coding
+To run the program use the green arrow in the tool bar
+
