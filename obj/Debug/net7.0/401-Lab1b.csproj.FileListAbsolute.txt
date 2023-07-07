@@ -1,0 +1,15 @@
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.csproj.AssemblyReference.cache
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.AssemblyInfoInputs.cache
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.AssemblyInfo.cs
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.csproj.CoreCompileInputs.cache
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\bin\Debug\net7.0\401-Lab1b.exe
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\bin\Debug\net7.0\401-Lab1b.deps.json
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\bin\Debug\net7.0\401-Lab1b.runtimeconfig.json
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\bin\Debug\net7.0\401-Lab1b.dll
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\bin\Debug\net7.0\401-Lab1b.pdb
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.dll
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\refint\401-Lab1b.dll
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.pdb
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\401-Lab1b.genruntimeconfig.cache
+C:\Users\Student-18\Documents\GitHub\401-Lab1b\401-Lab1b\obj\Debug\net7.0\ref\401-Lab1b.dll
